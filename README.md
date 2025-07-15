@@ -1,20 +1,8 @@
-# 👋 Hi, I’m @im-syn
-
-##  I’m interested in ...
-- Cybersecurity
-- Artificial Intelligence
-- Software Development
-- Open Source Projects
-
-##  I’m currently learning ...
-- Advanced Cybersecurity Techniques
-- Deep Learning and Neural Networks
-- Working towards a Ph.D. in AI
-
+# 👋 Hi, @im-syn
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 - Python
 - JavaScript
 - C++
